@@ -1,8 +1,9 @@
 # 👋🏼 Hi! I'm Esdras 😃
 
 
-I'm a student of Control and Automation Engineering at [UTFPR-CP](https://utfpr.edu.br)
-I'm a Commercial Director at the [Solucaut](https://solucaut.com.br), a junior enterprise of engineering.
+Student of Control and Automation Engineering at [UTFPR-CP](https://utfpr.edu.br).
+Commercial Director at [Solucaut](https://solucaut.com.br), a junior enterprise of engineering.
+Scientific Initiation student in the area of machine learning and mathematical optimization.
 
 
 ## Follow me at
