@@ -28,7 +28,7 @@ Scientific Initiation student in the area of machine learning and mathematical o
 
 ## Study notes
 
-> 📚 [Notion](https://www.notion.so/esdrasbattosti/Study-Notes-618815fa6d794740a49be3092a7ecce2 "My personal notion")
+> 📚 [Notion](https://esdrasbattosti.notion.site "My personal site")
 
 
 [![Esdras's GitHub stats](https://github-readme-stats.vercel.app/api?username=ximiraxelo&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
