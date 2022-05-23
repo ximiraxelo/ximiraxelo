@@ -2,7 +2,7 @@
 
 
 Student of Control and Automation Engineering at [UTFPR-CP](https://utfpr.edu.br).
-Commercial Director at [Solucaut](https://solucaut.com.br), a junior enterprise of engineering.
+Co-manager at [Solucaut](https://solucaut.com.br), a junior enterprise of engineering.
 Scientific Initiation student in the area of machine learning and mathematical optimization.
 
 
@@ -17,8 +17,6 @@ Scientific Initiation student in the area of machine learning and mathematical o
 ## Tools and languages
 
 > **🐍** [Python](https://www.python.org/)
-
-> **📊** [R](https://www.r-project.org/)
 
 > **📄** [LaTeX](https://www.latex-project.org/)
 
