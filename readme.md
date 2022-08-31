@@ -18,6 +18,8 @@ Scientific Initiation student in the area of machine learning and mathematical o
 
 > **🐍** [Python](https://www.python.org/)
 
+> **🔢** [MATLAB](https://www.mathworks.com/products/matlab.html)
+
 > **📄** [LaTeX](https://www.latex-project.org/)
 
 > **📂** [Git](https://git-scm.com)
