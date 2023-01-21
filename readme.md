@@ -2,8 +2,7 @@
 
 
 Student of Control and Automation Engineering at [UTFPR-CP](https://utfpr.edu.br).
-Co-manager at [Solucaut](https://solucaut.com.br), a junior enterprise of engineering.
-Scientific Initiation student in the area of machine learning and mathematical optimization.
+Scientific Initiation student in the area of machine learning and control systems.
 
 
 ## Follow me at
