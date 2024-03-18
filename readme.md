@@ -2,7 +2,7 @@
 
 
 Student of Control and Automation Engineering at [UTFPR-CP](https://utfpr.edu.br).
-Scientific Initiation student in the area of machine learning and control systems.
+Currently studying control systems, machine learning, and neural networks.
 
 
 ## Follow me at
