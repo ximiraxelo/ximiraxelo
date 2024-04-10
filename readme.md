@@ -1,8 +1,7 @@
 # 👋🏼 Hi! I'm Esdras 😃
 
 
-Student of Control and Automation Engineering at [UTFPR-CP](https://utfpr.edu.br).
-Currently studying control systems, machine learning, and neural networks.
+Undergraduate student in Control and Automation Engineering at [UTFPR-CP](https://utfpr.edu.br). I am currently studying Control Systems and Machine Learning.
 
 
 ## Follow me at
@@ -11,7 +10,9 @@ Currently studying control systems, machine learning, and neural networks.
 
 ## Reach me at
 
-> 📩 <esdrasbattostisilva@gmail.com>
+> 📩 <esdrasbattostisilva@gmail.com>  
+> 🟢 [ORCID](https://orcid.org/0000-0002-9288-6376)  
+> 🔵 [Lattes](http://lattes.cnpq.br/5361064829624642)  
 
 ## Tools and languages
 
